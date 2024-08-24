@@ -8,7 +8,7 @@ This project is a simple dashboard developed as part of an assignment for the Fr
 
 ```bash
 https://github.com/tonishantyadav/accuknox-dashboard-assignment.git
-cd swift-auth
+cd accuknox-dashboard-assignment
 ```
 
 ### Install project dependencies

@@ -2,6 +2,9 @@
 
 This project is a simple dashboard developed as part of an assignment for the Frontend Trainee role at AccuKnox.
 
+## Project Demo
+https://accuknox-dashboard-assignment-ebon.vercel.app/ 
+
 ## Run Locally
 
 ### Clone the repository
